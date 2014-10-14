@@ -1,4 +1,4 @@
-//test Lab2Connection.java
+//test for B3
 package connection;
  
 import java.sql.Connection;

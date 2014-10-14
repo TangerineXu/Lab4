@@ -1,4 +1,4 @@
-//test Lab2Connection.java
+//test for C4
 package connection;
  
 import java.sql.Connection;

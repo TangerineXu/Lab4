@@ -1,4 +1,4 @@
-//test for Lab4
+//test for C4
 package vo;
 
 import java.sql.*;
